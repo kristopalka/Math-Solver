@@ -16,5 +16,6 @@ class SolverTest
         assertEquals(4.8,Solver.Solve("2.4*2"));
         assertEquals(9,Solver.Solve("3^2"));
         assertEquals(2,Solver.Solve("((1.2)+2.8)*2/4"));
+        assertEquals(24,Solver.Solve("(2+2)*(3+3)"));
     }
 }
