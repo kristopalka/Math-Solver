@@ -1,6 +1,6 @@
 
 # Math solver
-Simple library (**Java** & **C**) to calculate matlematical expresions e.g.  **"2+3^(1+1)"** will return **"11"**.
+Simple (**Java** & **C**) matlematical expresions calculations e.g.  **"2+3^(1+1)"** will return **"11"**.
 You can use it for example as simple command line calculator
 
 ## Quick description
